@@ -3,7 +3,7 @@ import {Text, View, ImageBackground, StyleSheet, Image} from 'react-native';
 import {TouchableOpacity} from 'react-native-gesture-handler';
 import {moderateScale} from 'react-native-size-matters';
 import {color} from '../../theme';
-
+//
 export default class WelcomeScreen extends Component {
   render() {
     return (
